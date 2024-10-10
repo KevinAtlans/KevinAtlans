@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **exception@live.cn**
+- 📫 How to reach me **rs.xukai@gmail.com**
 
 - 📄 Know about my experiences [https://loyom.cn/](https://loyom.cn/)
 
